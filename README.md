@@ -1,0 +1,2 @@
+# parsec
+A JavaScript Logger
